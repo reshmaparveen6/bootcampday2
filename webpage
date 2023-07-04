@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+ background-color:#87CEEB;
+ text-align:center;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  color: red;
+   text-align:center;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+</p>
+
+</body>
+</html>
